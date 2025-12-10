@@ -20,6 +20,7 @@ This tutorial covers:
 ---
 
 ## 📁 Repository Structure
+```
 feature_engineering_woe_iv/
 │
 ├── data/
@@ -34,6 +35,8 @@ feature_engineering_woe_iv/
 │
 ├── README.md
 └── requirements.txt
+```
+
 
 
 
