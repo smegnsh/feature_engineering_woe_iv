@@ -24,14 +24,17 @@ feature_engineering_woe_iv/
 │
 ├── data/
 │   └── sample_data.csv
+│
 ├── notebooks/
 │   └── feature_engineering_woe_iv.ipynb
+│
 ├── scripts/
 │   ├── woe_iv.py
 │   └── binning.py
 │
 ├── README.md
 └── requirements.txt
+
 
 
 
