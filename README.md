@@ -65,7 +65,7 @@ to events, suggesting it's a "good" predictor.
 
 
 
-<img width="1172" height="338" alt="image" src="https://github.com/user-attachments/assets/fbcb05a6-84d4-4ef4-b39c-65ef9c142935" />
+
 
 
 ### **Information Value (IV)**  
