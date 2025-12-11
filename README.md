@@ -52,6 +52,21 @@ Formula:
 
  WOE = ln( distribution_good / distribution_bad )
 
+### **Interpreting WOE Values**
+
+Positive WOE: Indicates that a segment has a higher proportion of non-events compared 
+to events, suggesting it's a "good" predictor.
+
+Negative WOE: Suggests a higher proportion of events than non-events, making it a "bad" predictor.
+
+WOE near Zero: The segment behaves similarly to the overall population.
+
+
+
+
+
+<img width="1172" height="338" alt="image" src="https://github.com/user-attachments/assets/fbcb05a6-84d4-4ef4-b39c-65ef9c142935" />
+
 
 ### **Information Value (IV)**  
 A metric that quantifies a feature’s predictive power for a binary target.
