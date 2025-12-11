@@ -30,8 +30,8 @@ feature_engineering_woe_iv/
 │   └── feature_engineering_woe_iv.ipynb
 │
 ├── scripts/
-│   ├── woe_iv.py
-│   └── binning.py
+│   ├── __init__.py
+│   └── data_loader.py
 │
 ├── README.md
 └── requirements.txt
